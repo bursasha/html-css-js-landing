@@ -7,4 +7,8 @@ $(function()
 	});
 
 	$('select').styler();
+
+	$('.header__button-menu').on('click', function(){
+		$('.menu ul').slideToggle();
+	});
 });
