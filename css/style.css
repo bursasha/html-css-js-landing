@@ -98,11 +98,11 @@ header{
 	justify-content: space-between;
 }
 
-.header__button-menu{
+/* .header__button-menu{
 	display: none;
 	font-size: 28px;
 	cursor: pointer;
-}
+} */
 
 .menu li{
 	display: inline-block;
